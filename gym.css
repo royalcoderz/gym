@@ -1,0 +1,567 @@
+body{
+/* height: 100%; */
+text-transform: capitalize;
+color:black;
+opacity: 0.1;
+background-color: white;
+opacity: 1;
+}
+
+.logo{
+    height: 30px;
+width: 50px;
+object-fit: contain;
+}
+#cart{
+    
+    height: 30px;
+    width: 30px;
+    margin-left: 150px;
+}
+#option{
+    height: 30px;
+    width: 30px;
+    margin-left: 150px;
+}
+.div1{
+    color: white;
+    padding: 168px;
+}
+.con2{
+   
+    height: 100vh;
+    margin-left: 10px;
+margin-right: 10px;
+}
+
+
+.comment{
+    height: 350px;
+    width: 350px;
+    border-radius: 300px;
+    margin-left: 530px;
+}
+.people{
+    height: 300px;
+    width: 300px;
+    border-radius: 75px;
+    margin-left: 390px;
+    box-shadow: 4px 4px blue;
+}
+.stopwatch{
+    height: 150px;
+    width: 150px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border: 2px solid red;
+    box-shadow: 4px 4px green
+}
+.equipment{
+    height: 150px;
+    width: 150px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border: 2px solid red;
+    box-shadow: 4px 4px green
+}
+.contract{
+    height: 150px;
+    width: 150px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border: 2px solid red;
+    box-shadow: 4px 4px green
+}
+#gym1{
+    height: 250px;
+    width: 500px;
+    border-radius: 80%;
+    box-shadow: 4px 4px red;
+    margin: 10px;
+}
+#gym2{
+    height: 250px;
+    width: 500px;
+    border-radius: 80%;
+    margin: 10px;
+    box-shadow: 4px 4px red;
+}
+#gym3{
+    height: 250px;
+    width: 500px;
+    border-radius: 80%;
+    margin: 10px;
+    box-shadow: 4px 4px red;
+}
+.person{
+    height: 250px;
+    width: 250px;
+border-radius: 200px;
+}
+#gymline{
+    color: goldenrod;
+}
+.p1{
+color: aqua;
+margin-top: -4px;
+}
+
+.div2{
+    color:black;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+.div5{
+    display: flex;
+    word-spacing: 10px;
+    line-height: 50px;
+    background-color: greenyellow;
+    color: white;
+    margin-left: 1px;
+    padding-left: 100px;
+}
+.p9{
+    margin-left: 20px;
+}
+.div3{
+    display: flex;
+    padding: 5px;
+    width: 75%;
+}
+.d3{
+    margin-right: 500px;
+}
+.div4{
+    background-color: greenyellow;
+    color: white;
+    margin-left:  200px;
+    margin-right: 200px;
+    box-shadow: 10px 10px 10px lightblue;
+}
+.p8{
+    color: black;
+    font-family: italic
+    ;
+    font-size: 2rem;
+}
+.p7{
+    font-size: 2em;
+}
+
+#environment,#classes,#price{
+    color: rgb(141, 112, 143);
+}
+
+.p6{
+    margin-left: 100px;
+}
+#button1{
+    cursor: grab;
+    margin-left: 500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.d5,.d6{
+    margin-left: 50px;
+}
+.con1{
+    height: 758px;
+    background-image: url(https://t3.ftcdn.net/jpg/06/08/15/96/360_F_608159635_oQ0NJZIj1XCGlSaptlc0m1g0jb5M1SL8.jpg);
+    background-size: cover;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: -68px;
+}
+
+.p2{
+    font-size: 4rem;
+}
+.info{
+    font-size: 2em;
+    margin: 60px;
+}
+
+.navbar{
+    display: flex;
+    position: fixed;
+    top: 0;
+margin-left: 0px;
+margin-right: 0px;
+/* width: 100%; */
+width: 1759px;
+}
+.navbar.scrolled{
+    background-color: black;
+    color: white;
+}
+a{
+    padding-left: 135px;
+    color: white;
+    text-decoration: none;
+    justify-content: center;
+}
+a:hover{
+    color: red;
+    transition-property:color;
+    transition-duration: 0.1sec;
+}
+.con3{
+    margin: 30px;
+    margin-left: 50px;
+margin-right: 10px;
+padding-left: 400px;
+}
+.con4{
+    margin-left: 450px;
+margin-right: 10px;
+width: 500px;
+padding-bottom: 5px;
+height: 100vh;
+padding-left: 20px;
+border: 2px solid lightgreen;
+border-inline: 2px orange;
+}
+.p10,.p11,.p12,.p13{
+    line-height: 40px;
+    font-weight: 400;
+}
+.p11{
+    text-wrap:pretty;
+}
+.p10{
+    padding-left: 100px;
+    font-size: 20px;
+}
+.div10,.div11,.div12{
+    padding-left: 157px;
+}
+.con5{
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.con6,.con7{
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 100vh;
+}
+.ser{
+    font-size: 40px;
+}
+.div13,.div14,.div15{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.class{
+    font-size:40px ;
+}
+.div19{
+    line-height: 30px;
+    font-size: 25px;
+    margin-left: 340px;
+}
+.div20{
+    margin-left: 100px;
+    padding-top: 50px;
+}
+.con7{
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 100vh;
+}
+.fees{
+    font-size: 40px;
+}
+li{
+    line-height: 30px;
+    word-spacing: 6px;
+    font-size: 20px;
+}
+.p21,.p23{
+    color: goldenrod;
+    font-size: 35px;
+}
+.fd,.fm{
+    font-size: 20px;
+}
+.div21,.div22{
+    border: 2px solid green;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-left: 75px;
+    padding-bottom: 5px;
+    box-shadow: 2px 2px lightgreen;
+}
+.con8{
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 90vh; 
+}
+h4{
+    font-size: 40px;
+}
+.p25{
+    font-size: 30px;
+    word-spacing: 20px;
+    padding-left: 250px;
+    padding-right: 250px;
+    text-wrap:stable;
+}
+.p26{
+    margin-left: 558px;
+}
+@media screen and (max-width: 900px) {
+    body{
+        width: 853px;
+        margin-left: 0px;
+    }
+    .con1{
+        width:849px ;
+        background-image: url(https://img.freepik.com/free-photo/3d-gym-equipment_23-2151114137.jpg);
+        background-size:cover;
+    margin-left: 2px;
+    margin-right: -50px;
+    margin-top: -68px;
+    height: 1280px;
+    }
+    .div1{
+        padding-top: 486px;
+        padding-left: 300px;
+        /* margin-right: 0px; */
+    }
+    .navbar {
+        margin-left: 2px;
+        width: 849px;
+        right: 0;
+        left: 0;
+    }
+    .info{
+        font-size: 20px;
+        margin-left: -10px;
+    }
+    .con2{
+    width: 849px;
+        margin-left: 2px;
+        margin-right: 2px;
+        max-height: 600px;
+    }
+    .div4{
+        background-color: greenyellow;
+        color: white;
+        margin-left:  50px;
+        margin-right: 50px;
+        box-shadow: 10px 10px 10px lightblue;
+    }
+    a{
+        padding-left: 50px;
+    }
+    #logo1{
+        height: 20px;
+    width: 20px;
+    }
+    .p1{
+        margin-top: -4px;
+    }
+    .div5{
+        word-spacing: 2px;
+        line-height: 20px;
+        color: white;
+        margin-left: 1px;
+        padding-left: 50px;
+    }
+    .person{
+        height: 180px;
+        width: 180px;
+    border-radius: 200px;
+    }
+    .p9{
+        margin-left: 20px;
+    }
+    #button1{
+        width: 20px;
+        height: 10px;
+        font-size: 8px;
+        justify-content: center;
+        margin-left:-50px;
+    }
+    #gym1{
+        height: 300px;
+        width: 470px;
+        border-radius: 80%;
+    }
+    #gym2{
+        height: 300px;
+        width: 470px;
+        border-radius: 80%;
+    }
+    #gym3{
+        height: 300px;
+        width: 470px;
+        border-radius: 80%;
+    }
+    .con3{
+        width: 600px;
+        padding-left: -400px;
+        margin-left: 2px;
+        margin-right: 2px;
+        margin-left: -200px;
+    }
+    /* .con3{
+        margin: 30px;
+        margin-left: 2px;
+    margin-right: 2px;
+    padding-left: -400px;
+    width:849px ;
+    marginl
+    } */
+    .pic{
+    width: 300px;
+    padding-left: -400px;
+    /* margin-right:200px ;
+    margin-left:200px ; */
+    
+    }
+    .con4{
+        margin-left: 2px;
+        margin-right: 2px;
+        width: 849px;
+        padding-bottom: 5px;
+        border: none;
+        box-shadow: none;
+        /* padding-left: -20px; */
+        max-height: 995px;
+        padding-left: 0px;
+    }
+    .div8{
+        width: 500px;
+        padding-left: -100px;
+    }
+    .p10{
+        font-size: 50px;
+        line-height: 40px;
+        width: 400px;
+        
+    }
+    .p11{
+        text-wrap:pretty;
+        width: 500px;
+    }
+    .div9{
+        font-size: 20px;
+        line-height: 18px;
+        padding-left:200px;
+        padding-right:200px;
+    }
+    .div10,.div11,.div12{
+    margin-left:200px;
+    margin-right:200px ;
+    }
+    .stopwatch{
+        height: 120px;
+        width: 120px;
+        margin-left: 167px;
+        margin-left:167px ;
+    }
+    .equipment{
+        height: 120px;
+        width: 120px;
+        margin-left: 167px;
+        margin-left:167px ;
+    }
+    .contract{
+        height: 120px;
+        width: 120px;
+        margin-left: 167px;
+        margin-left:167px ;
+    }
+    .con5{
+        margin-left: 2px;
+        margin-right: 2px;
+        width: 849px;
+    border: none;
+    }
+    .ser{
+    padding-right: 100px;
+    }
+    .p15,.p16,.p17{
+        font-size: 30px;
+        line-height: 30px;
+        word-spacing: 15px;
+        text-wrap:wrap;
+    }
+    .div13,.div14,.div15{
+        width: 653px;
+        margin-right:100px ;
+        margin-left:100px ;
+    }
+    .con6,.con7{
+        max-height: 720px;
+        width: 849px;
+        margin-left: 2px;
+        margin-right: 2px;
+    }
+    .div18{
+        margin-left: 10px;
+    }
+    .div19{
+        margin-left: 10px;
+    }
+    .div20{
+        margin-left:-200px;
+    }
+    .fees{
+        margin-left: 10px;
+    }
+    li{
+        line-height: 20px;
+        word-spacing: 6px;
+        font-size: 16px;
+    }
+    .p21,.p23{
+        color: goldenrod;
+        font-size: 35px;
+    }
+    .fd,.fm{
+        font-size: 20px;
+    }
+    .div21,.div22{
+        border: 2px solid green;
+        margin-left: 220px;
+        margin-right: 220px;
+        padding-bottom: 5px;
+        width: 300px;
+    }
+    .comment{
+        height: 250px;
+        width: 250px;
+        border-radius: 300px;
+        margin-left: 300px;
+    }
+    .con8{
+        margin-left: 2px;
+        margin-right: 2px;
+        height: 500px; 
+        width: 849px;
+    }
+    h4{
+        font-size: 40px;
+        margin-left: 10px;
+    }
+    .p25{
+        font-size: 20px;
+        word-spacing: 15px;
+        padding-left: 250px;
+        padding-right: 250px;
+        text-wrap:pretty;
+    }
+    .p26{
+    margin-left: 300px;
+    }
+    .people{
+        margin-left: 458px;
+    }
+    }
