@@ -316,7 +316,7 @@ h4{
 }
 @media screen and (max-width: 900px) {
     body{
-        width: 853px;
+        width: 100%;
         margin-left: 0px;
     }
     .con1{
